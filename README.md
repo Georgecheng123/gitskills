@@ -1,4 +1,5 @@
 # gitskills
 Creating a new branch is quick.
 test
-hehe
+this is a branch conflict test
+
